@@ -3,5 +3,5 @@
 
 outboard_repository=ozkan/zmk-config-jetstream
 outboard_ref=master
-outboard_from=config/boards/shields/jetstream
-outboard_to=boards/shields/jetstream
+outboard_from=boards/shields/jetstream
+outboard_to=config/boards/shields/jetstream
