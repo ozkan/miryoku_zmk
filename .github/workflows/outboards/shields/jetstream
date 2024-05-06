@@ -1,6 +1,7 @@
-# Copyright 2022 Manna Harbour
+# Copyright 2024 Manna Harbour
 # https://github.com/manna-harbour/miryoku
-outboard_repository=ozkan/jetstream-zmk-config
+
+outboard_repository=ozkan/zmk-config-jetstream
 outboard_ref=master
 outboard_from=config/boards/shields/jetstream
 outboard_to=boards/shields/jetstream

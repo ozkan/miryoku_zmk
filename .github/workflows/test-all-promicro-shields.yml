@@ -41,6 +41,7 @@ jobs:
         "horizon",
         "humla",
         "iris_left","iris_right",
+        "jetstream",
         "jian_left","jian_right",
         "jiran_left","jiran_right",
         "jorne_left","jorne_right",
